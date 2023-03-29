@@ -1,0 +1,1 @@
+console.log('hari ike den nio mambuek RESTful API');
